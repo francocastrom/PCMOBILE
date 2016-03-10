@@ -1,0 +1,3 @@
+Uri: http://bons.me/public/bons/bonsvideo-product.mp4
+File Name: c:\Downloaded Web Sites\bons.me\public\bons\bonsvideo-product.mp4
+Content Type: video/mp4
